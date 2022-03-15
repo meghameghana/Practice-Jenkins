@@ -12,12 +12,14 @@ public class CreateOrgTest {
 		@Test
 		public void createorgtest1() {
 			
-			System.out.println("org created");
-			
-			
-	
+		System.out.println("org created");
+
+		}
 		
+		@Test
+		public void createorgtest12() {
+			
+		System.out.println("org created");
+
 		}
 }
-
-
