@@ -9,6 +9,10 @@ public class CreateContactTest
 	{
 		System.out.println("Contact created");
 		System.out.println("con created");
+		System.out.println("Contact created");
+		System.out.println("con created");
+		System.out.println("Contact created");
+		System.out.println("con created");
 	}
 }
 
